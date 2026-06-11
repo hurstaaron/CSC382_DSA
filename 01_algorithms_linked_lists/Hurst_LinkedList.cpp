@@ -20,7 +20,7 @@
 #include <string>
 using namespace std;
 
-// ------------------ NODE STRUCTURE -------------------------------------
+// ------------------ NODE STRUCT -----------------------------------------
 // Each node holds one bookmark and two pointers:
 //   prev = points to the site before this one
 //   next = points to the site after this one
